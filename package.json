@@ -1,0 +1,19 @@
+{
+  "name": "ferramenta-video",
+  "version": "1.0.0",
+  "description": "Projeto aberto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudemirsa/Ferramenta-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudemirsa/Ferramenta-video/issues"
+  },
+  "homepage": "https://github.com/Claudemirsa/Ferramenta-video#readme"
+}
